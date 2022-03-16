@@ -1,0 +1,5 @@
+# Intro-to-IRT-Using-R
+
+IRT for the People – An Introduction to Item Response Theory
+
+An essential aspect of psychological research is the measurement of individuals on a construct of interest.  Furthermore, accurate measurement of individuals is imperative when high-stakes decisions are involved.  Therefore, much of psychological research comprises the development, revision, and application of measurement instruments.  The focus of this workshop will be on applications of Item Response Theory (IRT) models to measuring psychological phenomenon. The workshop will begin with a brief discussion/review of related topics (e.g., classical test theory, logistic regression).  After establishing IRT fundamentals, the assumptions and modeling techniques of IRT models for dichotomous data will be illustrated conceptually using modern statistical software, R.  Finally, utilization of various dichotomous IRT models to inform scale revision will be demonstrated and applied to example datasets.  Basic knowledge of R is recommended, but not required.
